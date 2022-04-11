@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Sumbangsih</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_on_board_1">Sumbangsih adalah aplikasi resmi dari Kementerian Koperasi dan UKM yang dapat mempermudah pemilik UMKM untuk mengajukan permohonan BLT UMKM langsung dari Rumah</string>
+    <string name="text_on_board_2">Kini tanpa harus keluar rumah, Anda hanya butuh 15 menit untuk mengajukan permohonan BLT UMKM secara daring. </string>
+    <string name="text_on_board_3">Khawatir tidak ada transparansi data?
+Tenang , kini ada fitur tracking yang memberikan detail mengenai alur permohonan BLT UMKM milik anda.</string>
+
+    <string name="title_on_board_1">Sumbangsih itu aplikasi apa sih?</string>
+    <string name="title_on_board_2">Terdapat Fitur Pengajuan, lho!</string>
+    <string name="title_on_board_3">Terdapat Fitur Tracking juga, lho!</string>
+    <string name="skip">Lewati</string>
+    <string name="message_otp">Silahkan Masukkan Nomor Telepon Yang Bisa Dihubungi. Kami akan mengirim kode verifikasi via SMS</string>
+    <string name="title_insert_phone_number_otp">Masukkan Nomor Telepon</string>
+    <string name="message_please_check_otp">Masukkan Kode yang kami kirim melalui SMS ke nomor anda yang ditulis sebelumnya</string>
+    <string name="title_verification">Verifikasi</string>
+    <string name="title_activity_common_controller">CommonControllerActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string name="content_tutor_1">Program BPUM atau BLT UMKM merupakan strategi pemerintah dalam upaya pemulihan ekonomi nasional untuk membantu pelaku usaha mikro agar bertahan dan bangkit di tengah pandemi Covid-19.
+
+\n\nBesaran yang diberikan pada program BPUM tahun 2021 sekitar 1,2 juta rupiah. Jumlah tersebut berkurang dibandingkan tahun lalu, yaitu Rp2,4 juta untuk setiap pelaku usaha.
+
+\n\nBantuan bagi pelaku usaha merupakan dana hibah, bukan pinjaman ataupun kredit. Penerima tidak dipungut biaya apapun dalam menerima penyaluran bantuan bagi Pelaku Usaha Mikro.
+
+\n\nPenyalur bantuan bagi Pelaku Usaha Mikro adalah BUMN, BUMD, serta PT Pos Indonesia yang ditetapkan oleh pemerintah.
+</string>
+
+    <string name="content_tutor_2">• Warga Negara Indonesia (WNI) \n
+        • Memiliki Kartu Tanda Penduduk (KTP) elektronik \n
+        • Memiliki usaha mikro \n
+        • Bukan ASN, anggota TNI/POLRI, pegawai BUMN atau BUMD \n
+        • Tidak sedang menerima kredit usaha mikro (KUR) dari perbankan \n
+</string>
+
+    <string name="content_tutor_3">
+    <ul>• Siapkan KTP, Foto usaha dan pastikan sedang berada di rumah \n
+        • Buka Aplikasi sumbangsih \n
+        • Pastikan anda telah melakukan verifikasi data \n
+        • Klik menu pengajuan \n
+        • Klik ajukan sekarang \n
+        • Maka akan muncul pop up langkah-langkah pendaftaran \n
+        • Ikuti langkah-langkah pendaftaran sesuai intruksi dari aplikasi \n
+    </ul>
+</string>
+    <string name="dialog_ok">Oke</string>
+    <string name="dialog_cancel">Batalkan</string>
+    <string name="desc_take_photo_verif_ktp">Pada tahap selanjutnya akan anda diharuskan untuk foto KTP dan foto selfie bersama KTP dari rumah. Tahapan tersebut dibutuhkan untuk memverifikasi data diri pengguna.</string>
+    <string name="desc_take_photo_face_verif_ktp">Silahkan lakukan foto selfie bersama KTP dan alamat sesuai KTP</string>
+    <string name="desc_photo_frame_verif_nik_step3">Pastikan e-KTP Anda berada dalam area dan cukup jelas untuk dibaca</string>
+    <string name="desc_photo_frame_verif_nik_step4">Pastikan wajah dan ktp anda sudah sesuai posisi</string>
+    <string name="desc_step_info_usaha">Upload Foto Usaha, seperti Tampak depan Toko, pembuatan produk atau foto lain yang mewakili kegiatan usaha</string>
+
+    <string-array name="gender">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+
+</resources>
